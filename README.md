@@ -6,3 +6,12 @@ To Create an Express Server
 4. Install the Express package (npm i express)
 5. Write Server application in index.js (Given index.js)
 6. Start Server (npm index.js)
+
+
+HTTP Request
+
+GET - Request Resource
+POST - Sending Resource
+PUT - Replace Resource            (UPDATE)
+PATCH - Patch-Up a Resource       (UPDATE)
+DELETE - Delete Resource
